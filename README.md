@@ -30,7 +30,7 @@ I would appreciate content indication :smile:
 - [History of Epidemics](https://www.allthingsdistributed.com/historical/archives/000451.html)
 - [Epidemic Computing at Cornell](https://www.allthingsdistributed.com/historical/archives/000456.html)
 - [Consistent Hashing with Bounded Loads](https://ai.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html)
-
+- https://kaviraj.me/going-to-recurse-center/
 #### Talks
 - [Distributed Systems Archaeology](http://michaelrbernste.in/2013/11/22/distributed-systems-archaeology.html) - [Michael R. Bernstein](https://twitter.com/mrb_bk)
 - [Designs, Lessons and Advice from Building Large Distributed Systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
